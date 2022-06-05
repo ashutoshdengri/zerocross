@@ -1,3 +1,3 @@
 # Zero-Cross Game
 
-### [Enjoy Playing](https://ashsinden9.github.io/zerocross/)
+### [Enjoy Playing](https://ashutoshsinghdengri.github.io/zerocross/)
